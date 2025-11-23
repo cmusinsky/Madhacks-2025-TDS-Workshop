@@ -1,6 +1,8 @@
 # Madhacks-2025-TDS-Workshop
 Files for haproxy load balancing demo
 
+Link to presetation slides: https://docs.google.com/presentation/d/1SNjjHNPPjcFXe7Ix4OpRiYQ1ar79BlHioWFg1lj0APs/edit?usp=sharing
+
 # Required Python packages
 gunicorn
 flask
